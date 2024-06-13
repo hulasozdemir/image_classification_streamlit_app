@@ -25,6 +25,9 @@ image_classification/
 ├── README.md
 └── requirements.txt
 ```
+## Streamlit App
+
+[Link](https://imageclassificationappapp-3r6eseu4harmqgk2vu8mjo.streamlit.app)
 
 ## Setup Instructions
 
