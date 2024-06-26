@@ -33,7 +33,7 @@ image_classification/
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/image_classification.git
+    git clone https://github.com/hulasozdemir/image_classification.git
     cd image_classification
     ```
 
@@ -121,5 +121,5 @@ pip install -r requirements.txt
 
 ## Acknowledgements
 
-- This project uses the CIFAR-10 dataset provided by the [Kaggle](https://www.cs.toronto.edu/~kriz/cifar.html).
+- This project uses the CIFAR-10 dataset provided by the [UoT](https://www.cs.toronto.edu/~kriz/cifar.html).
 - TensorFlow and Keras libraries are used for building and training the neural network model.
